@@ -10,13 +10,17 @@
   background-color: #D3D3D3;
   text-align: center;
   font-family: Arial;
+  length: 100px
+  width: 50px
 }
 
-#titre, #"1gauche", 
+#"1droite"
 {
   background-color: #D3D3D3;
   text-align: center;
   font-family: Arial;
+  length: 100px
+  width: 50px
 }
 
 #boite1
