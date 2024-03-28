@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Mon Journal</h1>
+<p>Voici les dernières nouvelles :</p>
+<ul>
+    <li>Article 1 : Lorem ipsum dolor sit amet...</li>
+    <li>Article 2 : Consectetur adipiscing elit...</li>
+</ul>
+  </body>
+</html>
