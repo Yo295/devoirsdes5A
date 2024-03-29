@@ -60,3 +60,14 @@ hr
   background-color: #000000;
   border: none;
 }
+
+ul 
+{
+  list-style: none;
+}
+
+li 
+{
+  display: inline-block;
+  margin-right: 10px; 
+}
