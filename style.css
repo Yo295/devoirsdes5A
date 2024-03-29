@@ -53,3 +53,10 @@ body
   background-repeat: repeat-y;
   background-size: contain;
 }
+
+hr
+{
+  height: 2px;
+  background-color: #000000;
+  border: none;
+}
