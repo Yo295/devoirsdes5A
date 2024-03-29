@@ -33,3 +33,10 @@
 {
   padding: 10px;
 }
+
+body 
+{ 
+  background-image: url("téléchargé.jpeg") 
+  background-repeat: repeat-y;
+  background-size: contain;
+}
