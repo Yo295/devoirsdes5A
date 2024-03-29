@@ -7,7 +7,7 @@
 
 #partieimage
 {
-  background-color: #D3D3D3;
+  background-color: #808080;
   font-family: Arial;
 }
  
@@ -22,7 +22,7 @@
 
 #droite
 {
-  background-color: #D3D3D3;
+  background-color: #6699CC;
   text-align: center;
   font-family: Arial;
   length: 100px
@@ -40,7 +40,7 @@
   padding: 10px;
 }
 
-#booty
+body
 { 
   background-image: url(téléchargé.jpeg)
   background-repeat: repeat-y;
