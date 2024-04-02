@@ -101,3 +101,10 @@ li
   display: flex;
   column-gap: 20px;
 }
+
+#pied
+{
+  background-color: #6699CC;
+  text-align: center;
+  font-family: Arial;
+}
